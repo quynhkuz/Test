@@ -17,9 +17,9 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // nhanh main
+        // nhanh v2
 
-        //update main
+        //update v2
 
 
     }
