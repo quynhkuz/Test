@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         //nhanh main
 
-
         // sua nhanh 2
 
 
