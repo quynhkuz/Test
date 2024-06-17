@@ -17,8 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        //nhanh v2
-        //nhanh version 2
+        // nhanh main
 
     }
 }
