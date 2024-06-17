@@ -18,8 +18,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         // nhanh main
-
         //update main
+
+        // new main
 
 
     }
